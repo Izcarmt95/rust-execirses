@@ -1,0 +1,16 @@
+/target
+**/target
+
+# Cargo lock files for libraries (uncomment if this repo contains libraries, not binaries)
+# Cargo.lock
+
+# Backup files
+*.rs.bk
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
